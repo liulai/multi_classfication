@@ -25,6 +25,5 @@ Multi_classification.py
 Multi_classification_bce.py
 
 
-conclusion：
 ![](https://github.com/liulai/multi_classfication/blob/master/images/loss_accuracy.jpg)
 
