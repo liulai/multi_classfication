@@ -26,5 +26,5 @@ Multi_classification_bce.py
 
 
 conclusion：
-![aa](/images/loss_accuracy.png)
+![aa](https://github.com/liulai/multi_classfication/blob/master/images/loss_accuracy.png)
 
