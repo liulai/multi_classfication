@@ -1,0 +1,412 @@
+device: cuda:0
+Epoch:0/99
+ lr 0.01
+train loss: 0.681 acc_rate: 0.057 runtime(s): 0:01:26.075642
+val loss: 0.654 acc_rate: 0.000 runtime(s): 0:00:09.289077
+Epoch:1/99
+ lr 0.01
+train loss: 0.656 acc_rate: 0.017 runtime(s): 0:01:19.944597
+val loss: 0.644 acc_rate: 0.000 runtime(s): 0:00:06.215038
+Epoch:2/99
+ lr 0.01
+train loss: 0.650 acc_rate: 0.179 runtime(s): 0:01:01.386134
+val loss: 0.639 acc_rate: 0.000 runtime(s): 0:00:06.582386
+Epoch:3/99
+ lr 0.01
+train loss: 0.637 acc_rate: 0.076 runtime(s): 0:01:00.614635
+val loss: 0.619 acc_rate: 0.062 runtime(s): 0:00:06.537611
+Best val classes Acc: 0.0625
+Epoch:4/99
+ lr 0.01
+train loss: 0.616 acc_rate: 0.303 runtime(s): 0:01:01.409621
+val loss: 0.594 acc_rate: 0.463 runtime(s): 0:00:06.939295
+Best val classes Acc: 0.4625
+Epoch:5/99
+ lr 0.01
+train loss: 0.598 acc_rate: 0.438 runtime(s): 0:01:10.598039
+val loss: 0.590 acc_rate: 0.375 runtime(s): 0:00:09.147476
+Epoch:6/99
+ lr 0.01
+train loss: 0.591 acc_rate: 0.434 runtime(s): 0:00:57.341656
+val loss: 0.583 acc_rate: 0.475 runtime(s): 0:00:04.655260
+Best val classes Acc: 0.4750
+Epoch:7/99
+ lr 0.01
+train loss: 0.579 acc_rate: 0.431 runtime(s): 0:00:42.858822
+val loss: 0.589 acc_rate: 0.463 runtime(s): 0:00:04.390550
+Epoch:8/99
+ lr 0.01
+train loss: 0.574 acc_rate: 0.483 runtime(s): 0:00:43.590362
+val loss: 0.595 acc_rate: 0.488 runtime(s): 0:00:04.801177
+Best val classes Acc: 0.4875
+Epoch:9/99
+ lr 0.01
+train loss: 0.566 acc_rate: 0.471 runtime(s): 0:00:45.049312
+val loss: 0.585 acc_rate: 0.438 runtime(s): 0:00:05.600316
+Epoch:10/99
+ lr 0.01
+train loss: 0.568 acc_rate: 0.473 runtime(s): 0:00:50.018173
+val loss: 0.591 acc_rate: 0.425 runtime(s): 0:00:04.863403
+Epoch:11/99
+ lr 0.01
+train loss: 0.572 acc_rate: 0.459 runtime(s): 0:00:46.382025
+val loss: 0.600 acc_rate: 0.450 runtime(s): 0:00:04.424970
+Epoch:12/99
+ lr 0.01
+train loss: 0.559 acc_rate: 0.503 runtime(s): 0:00:43.824347
+val loss: 0.606 acc_rate: 0.438 runtime(s): 0:00:04.464629
+Epoch:13/99
+ lr 0.01
+train loss: 0.560 acc_rate: 0.474 runtime(s): 0:00:45.054351
+val loss: 0.602 acc_rate: 0.425 runtime(s): 0:00:04.479197
+Epoch:14/99
+ lr 0.01
+train loss: 0.552 acc_rate: 0.471 runtime(s): 0:00:44.219806
+val loss: 0.601 acc_rate: 0.400 runtime(s): 0:00:04.886588
+Epoch:15/99
+ lr 0.01
+train loss: 0.557 acc_rate: 0.463 runtime(s): 0:00:43.851028
+val loss: 0.606 acc_rate: 0.450 runtime(s): 0:00:04.589331
+Epoch:16/99
+ lr 0.01
+train loss: 0.567 acc_rate: 0.481 runtime(s): 0:00:42.869570
+val loss: 0.599 acc_rate: 0.413 runtime(s): 0:00:04.549195
+Epoch:17/99
+ lr 0.01
+train loss: 0.551 acc_rate: 0.481 runtime(s): 0:00:42.595785
+val loss: 0.595 acc_rate: 0.438 runtime(s): 0:00:04.589792
+Epoch:18/99
+ lr 0.01
+train loss: 0.532 acc_rate: 0.526 runtime(s): 0:00:42.209702
+val loss: 0.592 acc_rate: 0.438 runtime(s): 0:00:04.412646
+Epoch:19/99
+ lr 0.01
+train loss: 0.538 acc_rate: 0.495 runtime(s): 0:00:43.465342
+val loss: 0.600 acc_rate: 0.375 runtime(s): 0:00:04.197268
+Epoch:20/99
+ lr 0.01
+train loss: 0.540 acc_rate: 0.483 runtime(s): 0:00:42.598790
+val loss: 0.598 acc_rate: 0.438 runtime(s): 0:00:04.492069
+Epoch:21/99
+ lr 0.01
+train loss: 0.526 acc_rate: 0.506 runtime(s): 0:00:41.600914
+val loss: 0.606 acc_rate: 0.438 runtime(s): 0:00:04.721167
+Epoch:22/99
+ lr 0.01
+train loss: 0.507 acc_rate: 0.547 runtime(s): 0:00:42.141595
+val loss: 0.609 acc_rate: 0.425 runtime(s): 0:00:04.317541
+Epoch:23/99
+ lr 0.01
+train loss: 0.508 acc_rate: 0.530 runtime(s): 0:00:41.839528
+val loss: 0.620 acc_rate: 0.450 runtime(s): 0:00:03.980979
+Epoch:24/99
+ lr 0.01
+train loss: 0.512 acc_rate: 0.558 runtime(s): 0:00:42.510190
+val loss: 0.616 acc_rate: 0.463 runtime(s): 0:00:04.432962
+Epoch:25/99
+ lr 0.01
+train loss: 0.493 acc_rate: 0.551 runtime(s): 0:00:43.254264
+val loss: 0.645 acc_rate: 0.413 runtime(s): 0:00:04.624573
+Epoch:26/99
+ lr 0.01
+train loss: 0.493 acc_rate: 0.562 runtime(s): 0:00:42.835268
+val loss: 0.620 acc_rate: 0.500 runtime(s): 0:00:04.304304
+Best val classes Acc: 0.5000
+Epoch:27/99
+ lr 0.01
+train loss: 0.489 acc_rate: 0.579 runtime(s): 0:00:43.425909
+val loss: 0.636 acc_rate: 0.438 runtime(s): 0:00:04.398660
+Epoch:28/99
+ lr 0.01
+train loss: 0.454 acc_rate: 0.611 runtime(s): 0:00:51.787657
+val loss: 0.652 acc_rate: 0.450 runtime(s): 0:00:04.722291
+Epoch:29/99
+ lr 0.01
+train loss: 0.463 acc_rate: 0.631 runtime(s): 0:00:42.764309
+val loss: 0.624 acc_rate: 0.488 runtime(s): 0:00:04.487305
+Epoch:30/99
+ lr 0.006999999999999999
+train loss: 0.447 acc_rate: 0.645 runtime(s): 0:00:41.402428
+val loss: 0.664 acc_rate: 0.500 runtime(s): 0:00:04.714102
+Epoch:31/99
+ lr 0.006999999999999999
+train loss: 0.448 acc_rate: 0.619 runtime(s): 0:00:42.760777
+val loss: 0.652 acc_rate: 0.500 runtime(s): 0:00:04.720000
+Epoch:32/99
+ lr 0.006999999999999999
+train loss: 0.428 acc_rate: 0.648 runtime(s): 0:00:46.156685
+val loss: 0.665 acc_rate: 0.450 runtime(s): 0:00:04.865278
+Epoch:33/99
+ lr 0.006999999999999999
+train loss: 0.437 acc_rate: 0.637 runtime(s): 0:00:50.315248
+val loss: 0.680 acc_rate: 0.475 runtime(s): 0:00:05.410326
+Epoch:34/99
+ lr 0.006999999999999999
+train loss: 0.413 acc_rate: 0.654 runtime(s): 0:00:47.141449
+val loss: 0.733 acc_rate: 0.500 runtime(s): 0:00:04.580169
+Epoch:35/99
+ lr 0.006999999999999999
+train loss: 0.410 acc_rate: 0.651 runtime(s): 0:00:43.867709
+val loss: 0.697 acc_rate: 0.488 runtime(s): 0:00:04.575010
+Epoch:36/99
+ lr 0.006999999999999999
+train loss: 0.396 acc_rate: 0.672 runtime(s): 0:00:44.357417
+val loss: 0.737 acc_rate: 0.500 runtime(s): 0:00:04.304982
+Epoch:37/99
+ lr 0.006999999999999999
+train loss: 0.391 acc_rate: 0.682 runtime(s): 0:00:44.459317
+val loss: 0.733 acc_rate: 0.463 runtime(s): 0:00:04.921318
+Epoch:38/99
+ lr 0.006999999999999999
+train loss: 0.370 acc_rate: 0.695 runtime(s): 0:00:44.528900
+val loss: 0.719 acc_rate: 0.513 runtime(s): 0:00:04.263548
+Best val classes Acc: 0.5125
+Epoch:39/99
+ lr 0.006999999999999999
+train loss: 0.351 acc_rate: 0.701 runtime(s): 0:00:43.444552
+val loss: 0.730 acc_rate: 0.500 runtime(s): 0:00:04.778045
+Epoch:40/99
+ lr 0.006999999999999999
+train loss: 0.364 acc_rate: 0.693 runtime(s): 0:00:42.014167
+val loss: 0.753 acc_rate: 0.513 runtime(s): 0:00:04.564322
+Epoch:41/99
+ lr 0.006999999999999999
+train loss: 0.348 acc_rate: 0.740 runtime(s): 0:00:43.839802
+val loss: 0.732 acc_rate: 0.500 runtime(s): 0:00:04.535101
+Epoch:42/99
+ lr 0.006999999999999999
+train loss: 0.340 acc_rate: 0.734 runtime(s): 0:00:42.161910
+val loss: 0.774 acc_rate: 0.450 runtime(s): 0:00:04.321797
+Epoch:43/99
+ lr 0.006999999999999999
+train loss: 0.351 acc_rate: 0.713 runtime(s): 0:00:42.717589
+val loss: 0.762 acc_rate: 0.488 runtime(s): 0:00:04.243753
+Epoch:44/99
+ lr 0.006999999999999999
+train loss: 0.330 acc_rate: 0.713 runtime(s): 0:00:42.590434
+val loss: 0.823 acc_rate: 0.488 runtime(s): 0:00:04.439727
+Epoch:45/99
+ lr 0.006999999999999999
+train loss: 0.329 acc_rate: 0.754 runtime(s): 0:00:42.690413
+val loss: 0.726 acc_rate: 0.513 runtime(s): 0:00:04.391456
+Epoch:46/99
+ lr 0.006999999999999999
+train loss: 0.296 acc_rate: 0.754 runtime(s): 0:00:42.459267
+val loss: 0.739 acc_rate: 0.513 runtime(s): 0:00:04.353624
+Epoch:47/99
+ lr 0.006999999999999999
+train loss: 0.343 acc_rate: 0.736 runtime(s): 0:00:41.717288
+val loss: 0.698 acc_rate: 0.537 runtime(s): 0:00:04.275388
+Best val classes Acc: 0.5375
+Epoch:48/99
+ lr 0.006999999999999999
+train loss: 0.317 acc_rate: 0.748 runtime(s): 0:00:41.650934
+val loss: 0.801 acc_rate: 0.525 runtime(s): 0:00:04.482581
+Epoch:49/99
+ lr 0.006999999999999999
+train loss: 0.323 acc_rate: 0.769 runtime(s): 0:00:42.754036
+val loss: 0.808 acc_rate: 0.488 runtime(s): 0:00:04.313055
+Epoch:50/99
+ lr 0.006999999999999999
+train loss: 0.289 acc_rate: 0.771 runtime(s): 0:00:42.441415
+val loss: 0.801 acc_rate: 0.500 runtime(s): 0:00:04.531929
+Epoch:51/99
+ lr 0.006999999999999999
+train loss: 0.291 acc_rate: 0.777 runtime(s): 0:00:52.184293
+val loss: 0.763 acc_rate: 0.525 runtime(s): 0:00:04.634670
+Epoch:52/99
+ lr 0.006999999999999999
+train loss: 0.289 acc_rate: 0.783 runtime(s): 0:00:42.731318
+val loss: 0.759 acc_rate: 0.550 runtime(s): 0:00:04.404827
+Best val classes Acc: 0.5500
+Epoch:53/99
+ lr 0.006999999999999999
+train loss: 0.288 acc_rate: 0.773 runtime(s): 0:00:41.134640
+val loss: 0.796 acc_rate: 0.500 runtime(s): 0:00:04.400329
+Epoch:54/99
+ lr 0.006999999999999999
+train loss: 0.256 acc_rate: 0.805 runtime(s): 0:00:43.032301
+val loss: 0.809 acc_rate: 0.525 runtime(s): 0:00:04.736563
+Epoch:55/99
+ lr 0.006999999999999999
+train loss: 0.253 acc_rate: 0.815 runtime(s): 0:00:44.734658
+val loss: 0.832 acc_rate: 0.475 runtime(s): 0:00:04.768841
+Epoch:56/99
+ lr 0.006999999999999999
+train loss: 0.247 acc_rate: 0.798 runtime(s): 0:00:49.856088
+val loss: 0.820 acc_rate: 0.475 runtime(s): 0:00:05.492264
+Epoch:57/99
+ lr 0.006999999999999999
+train loss: 0.254 acc_rate: 0.791 runtime(s): 0:00:46.587816
+val loss: 0.910 acc_rate: 0.513 runtime(s): 0:00:04.940018
+Epoch:58/99
+ lr 0.006999999999999999
+train loss: 0.254 acc_rate: 0.816 runtime(s): 0:00:43.046220
+val loss: 0.842 acc_rate: 0.500 runtime(s): 0:00:04.808169
+Epoch:59/99
+ lr 0.006999999999999999
+train loss: 0.241 acc_rate: 0.822 runtime(s): 0:00:45.311232
+val loss: 0.857 acc_rate: 0.525 runtime(s): 0:00:04.693127
+Epoch:60/99
+ lr 0.0049
+train loss: 0.237 acc_rate: 0.833 runtime(s): 0:00:43.758356
+val loss: 0.838 acc_rate: 0.488 runtime(s): 0:00:04.550742
+Epoch:61/99
+ lr 0.0049
+train loss: 0.205 acc_rate: 0.851 runtime(s): 0:00:43.825596
+val loss: 0.919 acc_rate: 0.550 runtime(s): 0:00:04.628962
+Epoch:62/99
+ lr 0.0049
+train loss: 0.213 acc_rate: 0.837 runtime(s): 0:00:43.807009
+val loss: 0.905 acc_rate: 0.575 runtime(s): 0:00:04.566095
+Best val classes Acc: 0.5750
+Epoch:63/99
+ lr 0.0049
+train loss: 0.195 acc_rate: 0.851 runtime(s): 0:00:41.776587
+val loss: 1.035 acc_rate: 0.500 runtime(s): 0:00:04.727225
+Epoch:64/99
+ lr 0.0049
+train loss: 0.180 acc_rate: 0.879 runtime(s): 0:00:42.301982
+val loss: 0.898 acc_rate: 0.513 runtime(s): 0:00:04.609237
+Epoch:65/99
+ lr 0.0049
+train loss: 0.170 acc_rate: 0.875 runtime(s): 0:00:43.152445
+val loss: 0.958 acc_rate: 0.500 runtime(s): 0:00:04.543326
+Epoch:66/99
+ lr 0.0049
+train loss: 0.179 acc_rate: 0.878 runtime(s): 0:00:42.247144
+val loss: 1.041 acc_rate: 0.500 runtime(s): 0:00:04.658445
+Epoch:67/99
+ lr 0.0049
+train loss: 0.190 acc_rate: 0.862 runtime(s): 0:00:41.899061
+val loss: 1.008 acc_rate: 0.537 runtime(s): 0:00:04.546073
+Epoch:68/99
+ lr 0.0049
+train loss: 0.171 acc_rate: 0.887 runtime(s): 0:00:42.727121
+val loss: 1.038 acc_rate: 0.525 runtime(s): 0:00:04.467044
+Epoch:69/99
+ lr 0.0049
+train loss: 0.182 acc_rate: 0.882 runtime(s): 0:00:41.556160
+val loss: 1.058 acc_rate: 0.488 runtime(s): 0:00:04.272765
+Epoch:70/99
+ lr 0.0049
+train loss: 0.150 acc_rate: 0.912 runtime(s): 0:00:42.586704
+val loss: 1.147 acc_rate: 0.537 runtime(s): 0:00:04.416728
+Epoch:71/99
+ lr 0.0049
+train loss: 0.158 acc_rate: 0.886 runtime(s): 0:00:42.086229
+val loss: 1.148 acc_rate: 0.525 runtime(s): 0:00:04.536312
+Epoch:72/99
+ lr 0.0049
+train loss: 0.138 acc_rate: 0.898 runtime(s): 0:00:42.005681
+val loss: 1.161 acc_rate: 0.488 runtime(s): 0:00:04.691230
+Epoch:73/99
+ lr 0.0049
+train loss: 0.139 acc_rate: 0.904 runtime(s): 0:00:43.776832
+val loss: 1.045 acc_rate: 0.562 runtime(s): 0:00:04.270485
+Epoch:74/99
+ lr 0.0049
+train loss: 0.123 acc_rate: 0.918 runtime(s): 0:00:51.524632
+val loss: 1.180 acc_rate: 0.537 runtime(s): 0:00:04.584612
+Epoch:75/99
+ lr 0.0049
+train loss: 0.134 acc_rate: 0.897 runtime(s): 0:00:42.108171
+val loss: 1.127 acc_rate: 0.575 runtime(s): 0:00:04.666805
+Epoch:76/99
+ lr 0.0049
+train loss: 0.124 acc_rate: 0.914 runtime(s): 0:00:42.091139
+val loss: 1.168 acc_rate: 0.525 runtime(s): 0:00:04.128646
+Epoch:77/99
+ lr 0.0049
+train loss: 0.138 acc_rate: 0.892 runtime(s): 0:00:43.399775
+val loss: 1.237 acc_rate: 0.588 runtime(s): 0:00:04.824777
+Best val classes Acc: 0.5875
+Epoch:78/99
+ lr 0.0049
+train loss: 0.136 acc_rate: 0.915 runtime(s): 0:00:44.603886
+val loss: 1.323 acc_rate: 0.537 runtime(s): 0:00:04.503988
+Epoch:79/99
+ lr 0.0049
+train loss: 0.146 acc_rate: 0.900 runtime(s): 0:00:47.940903
+val loss: 1.176 acc_rate: 0.537 runtime(s): 0:00:04.959309
+Epoch:80/99
+ lr 0.0049
+train loss: 0.129 acc_rate: 0.919 runtime(s): 0:00:46.618189
+val loss: 1.179 acc_rate: 0.575 runtime(s): 0:00:05.136026
+Epoch:81/99
+ lr 0.0049
+train loss: 0.140 acc_rate: 0.894 runtime(s): 0:00:43.152572
+val loss: 1.196 acc_rate: 0.537 runtime(s): 0:00:04.312336
+Epoch:82/99
+ lr 0.0049
+train loss: 0.135 acc_rate: 0.900 runtime(s): 0:00:45.690869
+val loss: 1.472 acc_rate: 0.500 runtime(s): 0:00:04.727846
+Epoch:83/99
+ lr 0.0049
+train loss: 0.141 acc_rate: 0.925 runtime(s): 0:00:44.214886
+val loss: 1.497 acc_rate: 0.525 runtime(s): 0:00:04.664009
+Epoch:84/99
+ lr 0.0049
+train loss: 0.166 acc_rate: 0.892 runtime(s): 0:00:44.340288
+val loss: 1.437 acc_rate: 0.513 runtime(s): 0:00:04.584955
+Epoch:85/99
+ lr 0.0049
+train loss: 0.146 acc_rate: 0.897 runtime(s): 0:00:42.980869
+val loss: 1.278 acc_rate: 0.500 runtime(s): 0:00:04.282511
+Epoch:86/99
+ lr 0.0049
+train loss: 0.135 acc_rate: 0.919 runtime(s): 0:00:40.908141
+val loss: 1.358 acc_rate: 0.513 runtime(s): 0:00:04.206008
+Epoch:87/99
+ lr 0.0049
+train loss: 0.140 acc_rate: 0.901 runtime(s): 0:00:41.570602
+val loss: 1.220 acc_rate: 0.537 runtime(s): 0:00:04.274375
+Epoch:88/99
+ lr 0.0049
+train loss: 0.134 acc_rate: 0.907 runtime(s): 0:00:42.920887
+val loss: 1.049 acc_rate: 0.500 runtime(s): 0:00:04.653209
+Epoch:89/99
+ lr 0.0049
+train loss: 0.118 acc_rate: 0.915 runtime(s): 0:00:42.102246
+val loss: 1.208 acc_rate: 0.463 runtime(s): 0:00:04.745075
+Epoch:90/99
+ lr 0.003429999999999999
+train loss: 0.110 acc_rate: 0.924 runtime(s): 0:00:41.114365
+val loss: 1.231 acc_rate: 0.550 runtime(s): 0:00:04.188780
+Epoch:91/99
+ lr 0.003429999999999999
+train loss: 0.113 acc_rate: 0.922 runtime(s): 0:00:43.005309
+val loss: 1.279 acc_rate: 0.525 runtime(s): 0:00:04.522250
+Epoch:92/99
+ lr 0.003429999999999999
+train loss: 0.107 acc_rate: 0.928 runtime(s): 0:00:42.348000
+val loss: 1.356 acc_rate: 0.513 runtime(s): 0:00:04.398689
+Epoch:93/99
+ lr 0.003429999999999999
+train loss: 0.089 acc_rate: 0.943 runtime(s): 0:00:41.740667
+val loss: 1.352 acc_rate: 0.488 runtime(s): 0:00:04.670919
+Epoch:94/99
+ lr 0.003429999999999999
+train loss: 0.087 acc_rate: 0.944 runtime(s): 0:00:43.625421
+val loss: 1.454 acc_rate: 0.513 runtime(s): 0:00:04.422300
+Epoch:95/99
+ lr 0.003429999999999999
+train loss: 0.099 acc_rate: 0.922 runtime(s): 0:00:42.166909
+val loss: 1.354 acc_rate: 0.537 runtime(s): 0:00:03.987191
+Epoch:96/99
+ lr 0.003429999999999999
+train loss: 0.087 acc_rate: 0.937 runtime(s): 0:00:43.159527
+val loss: 1.455 acc_rate: 0.550 runtime(s): 0:00:04.127823
+Epoch:97/99
+ lr 0.003429999999999999
+train loss: 0.090 acc_rate: 0.937 runtime(s): 0:00:48.525310
+val loss: 1.452 acc_rate: 0.513 runtime(s): 0:00:05.951285
+Epoch:98/99
+ lr 0.003429999999999999
+train loss: 0.078 acc_rate: 0.942 runtime(s): 0:00:45.909897
+val loss: 1.437 acc_rate: 0.537 runtime(s): 0:00:04.958841
+Epoch:99/99
+ lr 0.003429999999999999
+train loss: 0.083 acc_rate: 0.939 runtime(s): 0:00:42.330578
+val loss: 1.468 acc_rate: 0.513 runtime(s): 0:00:04.607569
+Final val Classes Acc: 0.5875
